@@ -1,8 +1,8 @@
 ## Student Management App
-![Dashboard](preview1.png)
-![Dashboard](preview2.png)
-![Dashboard](preview3.png)
-![Dashboard](preview4.png)
-![Dashboard](preview5.png)
+![Dashboard][Preview](preview1.png)
+![Dashboard][Preview](preview2.png)
+![Dashboard][Preview](preview3.png)
+![Dashboard][Preview](preview4.png)
+![Dashboard][Preview](preview5.png)
 
 
